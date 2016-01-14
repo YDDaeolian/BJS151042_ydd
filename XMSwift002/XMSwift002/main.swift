@@ -166,5 +166,5 @@ class Child: Father {
 var child1:Child = Child(name: "hehe", age: 88, gender: true, mother: "kk")
 child1.earnMoney()
 
-
+var a = 10
 
